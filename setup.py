@@ -32,7 +32,7 @@ setup(name='lexmapr',
           'rdflib==4.2.2',
           'pyparsing==2.1.10'
       ],
-      python_requires='>=3.5, <3.8',
+      python_requires='>=3.5, <3.10',
       test_suite='nose.collector',
       tests_require=['nose'],
       packages=find_packages(),
