@@ -30,6 +30,7 @@ setup(name='lexmapr',
           'inflection==0.3.1',
           'python-dateutil==2.7.3',
           'rdflib==4.2.2',
+          'pyparsing==2.1.10'
       ],
       python_requires='>=3.5, <3.8',
       test_suite='nose.collector',
