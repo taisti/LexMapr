@@ -25,14 +25,13 @@ setup(name='lexmapr',
       license='GPL-3.0',
       classifiers=classifiers,
       install_requires=[
-          'nltk==3.4.5',
+          'nltk==3.7',
           'wikipedia==1.4.0',
           'inflection==0.3.1',
           'python-dateutil==2.7.3',
-          'rdflib==4.2.2',
-          'pyparsing==2.1.10'
+          'rdflib==6.2.0'
       ],
-      python_requires='>=3.5, <3.10',
+      python_requires='>=3.7, <3.11',
       test_suite='nose.collector',
       tests_require=['nose'],
       packages=find_packages(),
