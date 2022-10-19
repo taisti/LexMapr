@@ -1,0 +1,160 @@
+Sample_Id	Sample_Desc	Processed_Sample	Processed_Sample (With Scientific Name)	Matched_Components	Match_Status(Macro Level)
+0_T7	Tia Maria	tia maria	tia {tacca leontopetaloides} maria	['tacca leontopetaloides:NCBITAXON_72648']	Component Match
+0_T8	triple sec	triple sec	triple sec	['triple sec:FOODON_00002551']	Full Term Match
+0_T11	orange juice	orange juice	orange juice	['orange juice:FOODON_03301103']	Full Term Match
+1_T3	maple syrup	maple syrup	maple syrup	['maple syrup:FOODON_03301848']	Full Term Match
+1_T6	vanilla	vanilla	vanilla	['vanilla:NCBITAXON_51238']	Full Term Match
+1_T8	cinnamon	cinnamon	cinnamon {cinnamomum verum}	['cinnamon:FOODON_03301175']	Full Term Match
+1_T10	milk	milk	milk	['milk:UBERON_0001913']	Full Term Match
+1_T13	eggs	egg	egg	['egg food product:FOODON_00001274']	Full Term Match
+1_T17	butter	butter	butter	['butter:FOODON_03310351']	Full Term Match
+1_T21	with icing cinnamon roll	with icing cinnamon roll	with icing cinnamon {cinnamomum verum} roll	['cinnamon roll:FOODON_03302318', 'icing (food product):FOODON_03301932']	Component Match
+2_T1	coconuts	coconut	coconut	['cocos nucifera:NCBITAXON_13894']	Full Term Match
+2_T6	evaporated milk	evaporated milk	evaporated milk	['evaporated milk:FOODON_03301505']	Full Term Match
+2_T7	gin	gin	gin	['gin:FOODON_03309491']	Full Term Match
+2_T11	sugar	sugar	sugar	['sugar:FOODON_03420108']	Full Term Match
+2_T13	cinnamon	cinnamon	cinnamon {cinnamomum verum}	['cinnamon:FOODON_03301175']	Full Term Match
+2_T20	nutmeg	nutmeg	nutmeg {myristica fragrans}	['myristica fragrans:NCBITAXON_51089']	Full Term Match
+3_T2	graham cracker	graham cracker	graham cracker	['cracker:FOODON_00002711']	Component Match
+3_T6	milk chocolate candy bars	milk chocolate candy bar	milk chocolate candy bar	['milk chocolate bar:FOODON_00003879']	Full Term Match
+3_T8	marshmallows	marshmallow	marshmallow {althaea officinalis}	['marshmallow:FOODON_03305639']	Full Term Match
+3_T11	blueberries	blueberry	blueberry	['blueberry (whole, raw):FOODON_03302045']	Full Term Match
+3_T14	strawberry slices	strawberry slice	strawberry {fragaria x ananassa} slice	['fragaria x ananassa:NCBITAXON_3747']	Component Match
+4_T1	sesame seeds	sesame seed	sesame seed	['sesame seed (whole):FOODON_03310306']	Full Term Match
+4_T6	swiss cheese	swiss cheese	swiss cheese	['swiss cheese:FOODON_03303659']	Full Term Match
+4_T10	cheddar cheese	cheddar cheese	cheddar cheese	['cheddar cheese:FOODON_03302458']	Full Term Match
+4_T15	deli ham	deli ham	deli ham	['ham food product:FOODON_00002502']	Component Match
+4_T20	crescent rolls	crescent roll	crescent roll	['roll or bun:FOODON_00002743']	Component Match
+4_T22	mustard	mustard	mustard	['mustard food product:FOODON_00002053']	Full Term Match
+5_T7	onion	onion	onion {allium cepa}	['allium species:FOODON_03414302']	Full Term Match
+5_T11	curry powder	curry powder	curry powder	['curry powder:FOODON_03301842']	Full Term Match
+5_T18	chicken	chicken	chicken {gallus gallus}	['chicken:FOODON_03411457']	Full Term Match
+5_T24	TACO BELL® Thick & Chunky Salsa	taco bell® thick and chunky salsa	taco bell® thick and chunky salsa	['salsa:FOODON_03310086', 'taco:FOODON_03307744']	Component Match
+5_T15	Sour Cream	sour cream	sour cream	['sour cream:FOODON_03302515']	Full Term Match
+5_T27	Sour Cream	sour cream	sour cream	['sour cream:FOODON_03302515']	Full Term Match
+6_T6	butter	butter	butter	['butter:FOODON_03310351']	Full Term Match
+6_T9	garlic salt	garlic salt	garlic {allium sativum} salt	['garlic salt:FOODON_03307739']	Full Term Match
+6_T12	seasoning salt	seasoning salt	seasoning salt	['seasoning salt:FOODON_03306222']	Full Term Match
+6_T15	pepper	pepper	pepper	['sweet yellow bell pepper (whole):FOODON_00003548']	Full Term Match
+6_T16	sour cream	sour cream	sour cream	['sour cream:FOODON_03302515']	Full Term Match
+6_T18	chives	chive	chive {allium schoenoprasum}	['chive leaf (whole, raw):FOODON_03311167']	Full Term Match
+6_T19	baking potatoes	baking potato	baking potato {solanum tuberosum}	['solanum tuberosum:NCBITAXON_4113']	Component Match
+7_T4	sugar	sugar	sugar	['sugar:FOODON_03420108']	Full Term Match
+7_T6	carrots	carrot	carrot {daucus carota}	['daucus carota:NCBITAXON_4039']	Full Term Match
+7_T8	carrots	carrot	carrot {daucus carota}	['daucus carota:NCBITAXON_4039']	Full Term Match
+7_T9	canning salt	canning salt	canning salt	['salt:CHEBI_24866']	Component Match
+7_T10	sugar	sugar	sugar	['sugar:FOODON_03420108']	Full Term Match
+7_T12	water	water	water	['water:CHEBI_15377']	Full Term Match
+7_T13	orange juice	orange juice	orange juice	['orange juice:FOODON_03301103']	Full Term Match
+8_T1	egg	egg	egg	['egg food product:FOODON_00001274']	Full Term Match
+8_T8	cream	cream	cream	['cream food product:FOODON_00001216']	Full Term Match
+8_T11	vanilla extract	vanilla extract	vanilla extract	['vanilla:NCBITAXON_51238']	Component Match
+8_T14	chocolate chips	chocolate chips	chocolate chips	['38900 - fries (finger chips) (efsa foodex2):FOODON_03543890', 'chocolate:FOODON_03307240']	Component Match
+8_T2	heavy cream	heavy cream	heavy cream	['heavy cream:FOODON_03310795']	Full Term Match
+9_T6	lime	lime	lime	['lime (whole, raw):FOODON_03305086']	Full Term Match
+9_T7	kosher salt	kosher salt	kosher salt	['salt:CHEBI_24866']	Component Match
+9_T10	grapefruit juice	grapefruit juice	grapefruit {citrus x paradisi} juice	['grapefruit juice:FOODON_03306174']	Full Term Match
+9_T15	lime juice	lime juice	lime juice	['lime juice:FOODON_03306160']	Full Term Match
+9_T16	orange liqueur	orange liqueur	orange liqueur	['liqueur:FOODON_03301008', 'orange:PATO_0000953']	Component Match
+9_T20	tequila	tequila	tequila	['tequila:FOODON_03304704']	Full Term Match
+9_T22	ice	ice	ice	['ice:ENVO_01001125']	Full Term Match
+9_T25	limes	lime	lime	['lime (whole, raw):FOODON_03305086']	Full Term Match
+10_T1	pepper	pepper	pepper	['sweet yellow bell pepper (whole):FOODON_00003548']	Full Term Match
+10_T2	salt	salt	salt	['salt:CHEBI_24866']	Full Term Match
+10_T4	olive oil	olive oil	olive oil	['olive oil:FOODON_03301826']	Full Term Match
+10_T7	vinega	vinega	vinega	[]	No Match
+10_T11	onion	onion	onion {allium cepa}	['allium species:FOODON_03414302']	Full Term Match
+10_T17	tomatoes	tomato	tomato {solanum lycopersicum}	['solanum lycopersicum:NCBITAXON_4081']	Full Term Match
+10_T20	avocados	avocado	avocado {persea americana}	['persea americana:NCBITAXON_3435']	Full Term Match
+11_T1	cream	cream	cream	['cream food product:FOODON_00001216']	Full Term Match
+11_T3	coffee	coffee	coffee	['coffea arabica:NCBITAXON_13443']	Full Term Match
+11_T7	tequila	tequila	tequila	['tequila:FOODON_03304704']	Full Term Match
+11_T10	Kahlua	kahlua	kahlua	[]	No Match
+12_T1	baking powder	baking powder	baking powder	['baking powder:FOODON_03301940']	Full Term Match
+12_T4	5 eggs	egg	egg	['egg food product:FOODON_00001274']	Full Term Match
+12_T10	sugar	sugar	sugar	['sugar:FOODON_03420108']	Full Term Match
+12_T15	eggs	egg	egg	['egg food product:FOODON_00001274']	Full Term Match
+12_T7	all purpose flour	purpose flour	all purpose flour	['flour food product:FOODON_00001056']	Component Match
+13_T1	olive oil	olive oil	olive oil	['olive oil:FOODON_03301826']	Full Term Match
+13_T5	lemon juice	lemon juice	lemon juice	['lemon juice:FOODON_03305428']	Full Term Match
+13_T8	salt	salt	salt	['salt:CHEBI_24866']	Full Term Match
+13_T12	cumin	cumin	cumin	['cuminum cyminum:NCBITAXON_52462']	Full Term Match
+13_T16	garlic	garlic	garlic {allium sativum}	['allium sativum:NCBITAXON_4682']	Full Term Match
+13_T20	pepper	pepper	pepper	['sweet yellow bell pepper (whole):FOODON_00003548']	Full Term Match
+13_T29	garbanzo beans	garbanzo bean	garbanzo {cicer arietinum} bean	['10540 - chickpeas (without pods) (efsa foodex2):FOODON_03541054']	Full Term Match
+14_T1	water	water	water	['water:CHEBI_15377']	Full Term Match
+14_T4	lemon juice	lemon juice	lemon juice	['lemon juice:FOODON_03305428']	Full Term Match
+14_T7	basil pesto	basil pesto	basil {ocimum basilicum} pesto	['ocimum basilicum:NCBITAXON_39350', 'pesto sauce:FOODON_03310218']	Component Match
+14_T10	cumin	cumin	cumin	['cuminum cyminum:NCBITAXON_52462']	Full Term Match
+14_T14	garlic	garlic	garlic {allium sativum}	['allium sativum:NCBITAXON_4682']	Full Term Match
+14_T17	salt	salt	salt	['salt:CHEBI_24866']	Full Term Match
+14_T22	garbanzo beans	garbanzo bean	garbanzo {cicer arietinum} bean	['10540 - chickpeas (without pods) (efsa foodex2):FOODON_03541054']	Full Term Match
+15_T6	cheddar cheese	cheddar cheese	cheddar cheese	['cheddar cheese:FOODON_03302458']	Full Term Match
+15_T13	horseradish mustard	horseradish mustard	horseradish mustard	['horseradish:FOODON_03316284', 'mustard food product:FOODON_00002053']	Component Match
+15_T14	hot dogs	hot dog	hot dog	['hot dog:FOODON_00001009']	Full Term Match
+15_T16	beans	bean	bean	['bean (whole):FOODON_00002753']	Full Term Match
+15_T20	mustard yellow	mustard yellow	mustard yellow	['sinapis alba:NCBITAXON_3728']	Component Match
+15_T5	potato	potato	potato {solanum tuberosum}	['solanum tuberosum:NCBITAXON_4113']	Full Term Match
+15_T21	tater tots	tater tot	tater tot	['tater tot:FOODON_03311863']	Full Term Match
+16_T1	salmon steaks	salmon steak	salmon steak	['salmon:FOODON_00003473']	Component Match
+16_T5	olive oil	olive oil	olive oil	['olive oil:FOODON_03301826']	Full Term Match
+16_T8	lemon juice	lemon juice	lemon juice	['lemon juice:FOODON_03305428']	Full Term Match
+16_T11	spring onion	spring onion	spring onion {allium cepa}	['welsh onion (whole):FOODON_00003172']	Full Term Match
+16_T14	limoncello	limoncello	limoncello	[]	No Match
+16_T18	oregano	oregano	oregano {origanum vulgare}	['12710 - marjoram, dry (efsa foodex2):FOODON_03541271']	Full Term Match
+16_T20	parsley	parsley	parsley	['petroselinum crispum:NCBITAXON_4043']	Full Term Match
+17_T1	milk	milk	milk	['milk:UBERON_0001913']	Full Term Match
+17_T4	butter	butter	butter	['butter:FOODON_03310351']	Full Term Match
+17_T8	cheese	cheese	cheese	['cheese food product:FOODON_00001013']	Full Term Match
+17_T12	salt	salt	salt	['salt:CHEBI_24866']	Full Term Match
+17_T15	baking powder	baking powder	baking powder	['baking powder:FOODON_03301940']	Full Term Match
+17_T18	flour	flour	flour	['flour food product:FOODON_00001056']	Full Term Match
+18_T1	himalayan sea salt	himalayan sea salt	himalayan sea salt	['salt:CHEBI_24866', 'sea:ENVO_00000016']	Component Match
+18_T6	jalapeño	jalapeño	jalapeño	[]	No Match
+18_T9	coconut water	coconut water	coconut water	['cocos nucifera:NCBITAXON_13894', 'water:CHEBI_15377']	Component Match
+18_T14	cucumber	cucumber	cucumber	['cucumis sativus:NCBITAXON_3659']	Full Term Match
+18_T19	celery	celery	celery {apium graveolens dulce group}	['apium graveolens dulce group:NCBITAXON_117781']	Full Term Match
+19_T2	lemon	lemon	lemon	['citrus limon:NCBITAXON_2708']	Full Term Match
+19_T6	chickpeas	chickpea	chickpea {cicer arietinum}	['cicer arietinum:NCBITAXON_3827']	Full Term Match
+19_T10	olive oil	olive oil	olive oil	['olive oil:FOODON_03301826']	Full Term Match
+19_T14	garlic	garlic	garlic {allium sativum}	['allium sativum:NCBITAXON_4682']	Full Term Match
+19_T19	pepper flakes	pepper flakes	pepper flakes	['sweet yellow bell pepper (whole):FOODON_00003548']	Component Match
+20_T1	bagel	bagel	bagel	['bagel:FOODON_03309554']	Full Term Match
+20_T3	egg	egg	egg	['egg food product:FOODON_00001274']	Full Term Match
+20_T5	cheddar cheese	cheddar cheese	cheddar cheese	['cheddar cheese:FOODON_03302458']	Full Term Match
+20_T11	deli ham	deli ham	deli ham	['ham food product:FOODON_00002502']	Component Match
+20_T15	deli roast beef	deli roast beef	deli roast beef	['roast beef:FOODON_00002734']	Component Match
+20_T16	any lunch meat	lunch meat	any lunch meat	['luncheon meat:FOODON_03310675']	Full Term Match
+21_T1	baking soda	baking soda	baking soda	['baking soda product:FOODON_00002385']	Full Term Match
+21_T4	flour	flour	flour	['flour food product:FOODON_00001056']	Full Term Match
+21_T10	vanilla	vanilla	vanilla	['vanilla:NCBITAXON_51238']	Full Term Match
+21_T11	vinegar	vinegar	vinegar	['vinegar:FOODON_03301705']	Full Term Match
+21_T16	butter	butter	butter	['butter:FOODON_03310351']	Full Term Match
+21_T18	sugar	sugar	sugar	['sugar:FOODON_03420108']	Full Term Match
+22_T3	apple cider vinegar	apple cider vinegar	apple {malus domestica} cider vinegar	['cider vinegar:FOODON_03307916']	Component Match
+22_T7	dr pepper	dr pepper	dr pepper	['sweet yellow bell pepper (whole):FOODON_00003548']	Component Match
+22_T8	Coke	coke	coke	[]	No Match
+22_T13	sugar	sugar	sugar	['sugar:FOODON_03420108']	Full Term Match
+22_T15	mustard	mustard	mustard	['mustard food product:FOODON_00002053']	Full Term Match
+22_T22	ham	ham	ham	['ham food product:FOODON_00002502']	Full Term Match
+22_T10	cloves	clofe	clofe	['clove food product:FOODON_00001745']	Full Term Match
+23_T1	marshmallows	marshmallow	marshmallow {althaea officinalis}	['marshmallow:FOODON_03305639']	Full Term Match
+23_T4	Kahlua	kahlua	kahlua	[]	No Match
+23_T7	vanilla vodka	vanilla vodka	vanilla vodka	['vanilla:NCBITAXON_51238', 'vodka:FOODON_03305518']	Component Match
+23_T10	creme de cacao	creme de cacao	creme de cacao	['theobroma cacao:NCBITAXON_3641']	Component Match
+23_T14	chocolate	chocolate	chocolate	['chocolate:FOODON_03307240']	Full Term Match
+24_T1	saffron	saffron	saffron	['saffron thread:FOODON_00003441']	Full Term Match
+24_T4	water	water	water	['water:CHEBI_15377']	Full Term Match
+24_T10	greek yogurt	greek yogurt	greek yogurt	['26930 - yoghurt (efsa foodex2):FOODON_03542693', 'greek:HANCESTRO_0366']	Component Match
+24_T14	sugar	sugar	sugar	['sugar:FOODON_03420108']	Full Term Match
+24_T15	cardamom	cardamom	cardamom	['elettaria cardamomum:NCBITAXON_105181']	Full Term Match
+24_T20	cream	cream	cream	['cream food product:FOODON_00001216']	Full Term Match
+24_T23	nut	nut	nut	['nut (whole):FOODON_03303171']	Full Term Match
+25_T1	oatmeal	oatmeal	oatmeal	[]	No Match
+25_T16	blueberry	blueberry	blueberry	['blueberry (whole, raw):FOODON_03302045']	Full Term Match
+25_T17	almond	almond	almond {prunus dulcis}	['prunus dulcis:NCBITAXON_3755']	Full Term Match
+25_T18	chia seed	chia seed	chia seed	['chia seed (whole):FOODON_00002961']	Full Term Match
+25_T19	vanilla bean	vanilla bean	vanilla bean	['vanilla bean (whole, raw):FOODON_03302056']	Full Term Match
+25_T20	sugar	sugar	sugar	['sugar:FOODON_03420108']	Full Term Match
+25_T21	water	water	water	['water:CHEBI_15377']	Full Term Match
+25_T22	milk	milk	milk	['milk:UBERON_0001913']	Full Term Match
