@@ -58,8 +58,8 @@ small_simple5,Apple Pie
 `small_simple_config.json`
 ```javascript
 [
-  {"http://purl.obolibrary.org/obo/foodon.owl": "http://purl.obolibrary.org/obo/BFO_0000001"}
-]
+  {"http://purl.obolibrary.org/obo/foodon.owl": "http://www.w3.org/2002/07/owl#Thing"}
+] 
 ```
 
 #### Command line
